@@ -1,3 +1,12 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "title": "Hello World",
+      "text": "ဒီဟာက ပထမဆုံး post ပါ။"
+    },
+    {
+      "title": "Second Post",
+      "text": "JSON ထဲကို post တွေထပ်ထည့်ထားလို့ရတယ်။"
+    }
+  ]
 }
